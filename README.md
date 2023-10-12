@@ -1,3 +1,5 @@
+# This repository has been deprecated. It is no longer necessary to deploy Azure integrations using a docker container. This repository will be archived.
+
 # Coralogix Azure serverless integration deployment container
 Deployment framework for Azure Integrations for the Coralogix platform
 
